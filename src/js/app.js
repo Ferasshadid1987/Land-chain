@@ -34,9 +34,8 @@ App = {
       // Get the necessary contract artifact file and instantiate it with truffle-contract
       var LandArtifact = data;
       App.contracts.Land = TruffleContract(LandArtifact);
-
       // Set the provider for our contract
-      App.contracts.Land.setProvider(App.web3Provider);
+      App.contracts.Land.setProvider(new Web3.providers.HttpProvider('http://localhost:8545'));
 
       App.createContractInstance();
       return App.bindEvents();

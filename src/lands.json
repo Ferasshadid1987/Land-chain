@@ -1,84 +1,84 @@
 [
     {
         "id": 1,
-        "location": "Irbid",
+        "location": "Irbid Trust 1",
         "area": 20,
         "price": 300000,
         "type": "industrial"
     },
     {
         "id": 2,
-        "location": "Zarqa'a",
+        "location": "Zarqa'a Trust 2",
         "area": 34,
         "price": 200000,
         "type": "farm"
     },
     {
         "id": 3,
-        "location": "Amman",
+        "location": "Amman Trust 3",
         "area": 23,
         "price": 232000,
         "type": "industrial"
     },
     {
         "id": 4,
-        "location": "Amman",
+        "location": "Amman Trust 4",
         "area": 60,
         "price": 750000,
         "type": "farm"
     },
     {
         "id": 5,
-        "location": "Irbid",
+        "location": "Irbid Trust 5",
         "area": 94,
         "price": 340000,
         "type": "industrial"
     },
     {
         "id": 6,
-        "location": "Jarash",
+        "location": "Jarash Trust 6",
         "area": 133,
         "price": 870000,
         "type": "industrial"
     },
     {
         "id": 7,
-        "location": "Amman",
+        "location": "Amman Trust 7",
         "area": 25,
         "price": 450000,
         "type": "farm"
     },
     {
         "id": 8,
-        "location": "Ajloun",
+        "location": "Ajloun Trust 8",
         "area": 70,
         "price": 65000,
         "type": "industrial"
     },
     {
         "id": 9,
-        "location": "Amman",
+        "location": "Amman Trust 9",
         "area": 50,
         "price": 340000,
         "type": "industrial"
     },
     {
         "id": 10,
-        "location": "Amman",
+        "location": "Amman Trust 10",
         "area": 46,
         "price": 630000,
         "type": "industrial"
     },
     {
         "id": 11,
-        "location": "mafraq",
+        "location": "mafraq Trust 11",
         "area": 46,
         "price": 870000,
         "type": "industrial"
     },
     {
         "id": 12,
-        "location": "madaba",
+        "location": "madaba Trust 12",
         "area": 46,
         "price": 440000,
         "type": "industrial"
